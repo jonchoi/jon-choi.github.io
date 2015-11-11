@@ -1,0 +1,39 @@
+@import url("http://fonts.googleapis.com/css?family=Raleway");
+
+html, body {
+    color: darkgray; 
+    font-family: Raleway, monospace
+}
+
+#mainview {
+    background-color: black;
+    position: fixed;
+    top: 50%
+    z-index: 1;
+
+    width: 400px;
+    text-align:center;
+}
+
+#name {
+    font-size: 30px;
+    font-weight: heavier;
+}
+
+#comeback {
+
+}
+
+.links {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.links a {
+    color: gray;
+    padding: 0px 8px 4px 0px;
+}
+
+.links a:hover {
+    color: blue;
+}
