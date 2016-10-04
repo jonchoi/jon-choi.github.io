@@ -2,10 +2,10 @@
 
 html {
     height: 100%;
-    background-color: darkgray;
+    background-color: white;
 }
 body {
-    color: white;
+    color: black;
     font-family: Raleway, monospace
 }
 
@@ -21,20 +21,12 @@ body {
 }
 
 #name {
-    font-size: 6em;
-    font-weight: 400;
+    font-size: 6rem;
+    font-weight: 100;
     bottom: 0px;
     padding: 0 0 0 0;
-    margin: 0 0 0 0; 
-}
-
-#comeback {
-    top: 0;
-    font-size: 3em;
-    font-weight: 200;
-    margin: 20px 0px 50px 0px;
-    padding: 0 0 0 0;
-    width: 100%;
+    opacity: 0.55;
+    margin: 0px 0px 70px 0px;
 }
 
 .links {
@@ -44,10 +36,11 @@ body {
 }
 
 .links a {
-    color: white;
+    color: black;
+    opacity: 0.35;
     padding: 0 2% 0 2%;
 }
 
 .links a:hover {
-    color: lightgray;
+    opacity: 0.55;
 }
