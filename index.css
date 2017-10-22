@@ -1,6 +1,6 @@
-@import url("http://fonts.googleapis.com/css?family=Raleway");
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:200");
 
+/* Mobile-first */
 html {
     height: 100%;
     background-color: black;
@@ -12,16 +12,16 @@ body {
 
 #mainview {
     position: relative;
-    margin-top: 10vh;
-    margin-left: 20px;
-    padding: 0px 0px 30px 0px;
+    margin-top: 4vh;
+    /* margin-left: 20px; */
+    /* padding: 0px 0px 30px 0px; */
     z-index: 1;
     width: 100%;
     text-align: center;
 }
 
 #name {
-    margin: 20px 15% 20px 15%;
+    margin: 20px 5% 20px 5%;
     float: left;
     width: 100%;
     text-align: left;
@@ -37,15 +37,15 @@ body {
 }
 
 #introduction {
-    margin: 16px 15% 16px 15%;
+    margin: 20px 5% 20px 5%;
     float: left;
     text-align: left;
     font-family: Roboto;
     letter-spacing: 2px;
-    line-height: 35px;
-    font-size: 1.3rem;
+    line-height: 40px;
+    font-size: 1.2rem;
     font-weight: 300;
-    opacity: 0.5;
+    opacity: 0.65;
 }
 
 .links {
@@ -53,16 +53,65 @@ body {
     text-align: left;
     /* display: inline-block; */
     font-size: 2em;
-    margin: 26px 15% 16px 15%;
+    margin: 26px 5% 16px 5%;
     width: 100%;
 }
 
 .links a {
     color: white;
     opacity: 0.5;
-    padding: 0 2% 0 2%;
+    padding: 0 25px 0 10px;
 }
 
 .links a:hover {
     opacity: 0.45;
+}
+
+/* Desktop */
+/* TODO: Remove duplicates from mobile-first */
+@media (min-width:1000px) {
+    #mainview {
+	position: relative;
+	margin-top: 13vh;
+	margin-left: 20px;
+	padding: 0px 0px 30px 0px;
+	z-index: 1;
+	width: 100%;
+	text-align: center;
+    }
+
+    #name {
+	margin: 20px 30% 20px 20%;
+	float: left;
+	width: 100%;
+	text-align: left;
+	font-size: 3.5rem;
+	font-weight: 100;
+	bottom: 0px;
+	padding: 0 0 0 0;
+	opacity: 0.65;
+	cursor: default;
+	/* not selectable. */
+	-webkit-user-select: none; /* Chrome/Safari */
+	-moz-user-select: none; /* Firefox */
+    }
+
+    #introduction {
+	margin: 16px 30% 16px 20%;
+	float: left;
+	text-align: left;
+	letter-spacing: 2px;
+	line-height: 35px;
+	font-size: 1.3rem;
+	font-weight: 300;
+    }
+
+    .links {
+	float: left;
+	text-align: left;
+	/* display: inline-block; */
+	font-size: 2em;
+	margin: 26px 30% 55px 20%;
+	width: 100%;
+    }
 }
