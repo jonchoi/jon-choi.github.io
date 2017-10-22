@@ -1,4 +1,5 @@
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:200");
+@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Roboto:300,400');
 
 /* Mobile-first */
 html {
@@ -40,7 +41,7 @@ body {
     margin: 20px 5% 20px 5%;
     float: left;
     text-align: left;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     letter-spacing: 2px;
     line-height: 40px;
     font-size: 1.2rem;
@@ -103,7 +104,6 @@ body {
 	letter-spacing: 2px;
 	line-height: 35px;
 	font-size: 1.3rem;
-	font-weight: 300;
     }
 
     .links {
