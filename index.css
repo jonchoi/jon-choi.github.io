@@ -71,6 +71,10 @@ body {
 /* Desktop */
 /* TODO: Remove duplicates from mobile-first */
 @media (min-width:600px) {
+    html {
+	width: 100%;
+    }
+
     #mainview {
 	position: relative;
 	margin-top: 13vh;
