@@ -13,7 +13,7 @@ I studied alternative investments and behavioral economics while getting my econ
 
 Currently, I am advising & investing part-time while taking some time to figure out what's next.
 
-Here are some of the recent talks that I gave: [coming soon].
+Here are some of the recent talks that I gave: [Beyond Blocks, July 2018](beyond-blocks), more coming soon.
 
 Fun facts: I like to play racquet sports and [nosedive surfboards][nosedive-link]. 
 I've lived in 9 cities, and love eating spicy food.

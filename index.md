@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![alt text](https://cdn.pixabay.com/photo/2015/05/06/16/31/andromeda-galaxy-755442_1280.jpg)
+![alt text](/andromeda.jpg)
