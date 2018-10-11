@@ -3,7 +3,8 @@ layout: post
 title:  "Enter the Crypto Idea Maze"
 permalink: /cryptoideamaze/
 date:   2018-10-11
-header-image: /maze.jpg
+header-image: "/maze.jpg"
+description: "It's early in the game for crypto, and an idea maze helps us dig deeper and discern between compelling adoption paths and dead ends."
 categories: crypto
 ---
 
