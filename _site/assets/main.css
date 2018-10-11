@@ -506,6 +506,8 @@ table {
   .highlight .il {
     color: #099; }
 
+body .post ul, body .post ol {
+  line-height: 2; }
+
 .post-list-heading {
-  font-size: 2 rem;
   padding-top: 20px; }

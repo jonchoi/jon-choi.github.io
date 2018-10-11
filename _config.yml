@@ -21,6 +21,9 @@ linkedin_username: jonathan-choi
 disqus:
   shortname: jonchoi
 
+# for testing future posts    
+future: true
+
 # Mastodon instances
 # mastodon:
 # - username: jekyll

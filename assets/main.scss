@@ -5,10 +5,20 @@
 @import "minima";
 
 body {
+  h2 {
+    // font-size: 2rem;
+  }
+  // font-size: 18px;
+  // line-height: 1.7;
+
+  .post {
+    ul, ol {
+      line-height: 2;
+    }
+  }
 }
 
 .post-list-heading {
-   font-size: 2 rem;
+   // font-size: 2rem;
    padding-top: 20px;
 }
-
