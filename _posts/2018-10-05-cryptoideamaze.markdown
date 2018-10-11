@@ -3,6 +3,7 @@ layout: post
 title:  "Enter the Crypto Idea Maze"
 permalink: /cryptoideamaze/
 date:   2018-10-11
+header-image: /maze.jpg
 categories: crypto
 ---
 
