@@ -19,20 +19,20 @@ categories: crypto
 <br/>
 
 #### Table of Contents
-1. "What is an idea maze?"
+1. The Idea Maze
 2. Before the Maze: Bitcoin then Smart Contracts
 3. Enter the Maze: The Three Theses
 4. Cognitive Dissonance
-5. Customers, Alternatives and Intermediate Utility
-6. "How are your customers faring without you?"
+5. The Way Out: Customers, Alternatives and Intermediate Utility
+6. Waiting for Catalysts: How Badly Do They Need You?
 7. The Timing of It All
 8. Assessing What's Next
     1. Sound Money: In Code We Trust
     2. Web3: UX vs Trust
     3. Open Finance: Bearer vs Registered Instruments
-9. Exploring Assumptions and Rebuttals.
-10. "How can we contribute today?"
-11. Conclusion
+9. Exploring Assumptions and Rebuttals
+10. How Can We Contribute Today?
+11. Right Values + Uncertainty = Opportunity
 
 <br/>
 
@@ -54,7 +54,7 @@ With that, I'd like to share a rough outline of how I construct my crypto idea m
 
 <br/>
 
-### Review: Before the Maze.
+### Before the Maze: Bitcoin then Smart Contracts
 
 #### In the beginning**, there was Bitcoin.
 
@@ -94,7 +94,7 @@ We now have experiments that replace the simple transaction ledger in Bitcoin wi
 
 <br/>
 
-### Enter the Crypto Idea Maze.
+### Enter the Maze: The Three Theses
 
 We are in a fascinating part of the crypto idea maze in 2018; we have the proliferation of smart contract platforms, excitement around web3 & open finance, and the Bitcoin & privacy coin communities coalescing around the sound money narrative.
 
@@ -114,7 +114,7 @@ While they all share the same ethos of disintermediation (respectively of govern
 
 <br/>
 
-### Hello, cognitive dissonance!
+### Cognitive Dissonance
 
 > *Cognitive dissonance* – The state of having inconsistent thoughts, beliefs, or attitudes.
 
@@ -142,7 +142,7 @@ While the various theses share technological primitives and ethos of disintermed
 
 <br/>
 
-### Define the way out of the Maze.
+### The Way Out: Customers, Alternatives and Intermediate Utility
 
 As such, there's never been a higher premium for the ability to think independently.  We ingest narrative after narrative on a daily basis on Twitter, and conflicting assumption sets of these narratives are exactly what made this maze more complicated (be skeptical of this post too!).  The only way out of the maze is to think independently about the customer need and what features those needs will demand.
 
@@ -194,7 +194,7 @@ Intermediate utility serves as a "checkpoint" for the network to "save progress"
 
 <br/>
 
-### How badly do they need you?
+### Waiting for Catalysts: How Badly Do They Need You?
 
 While the theses are justifiably motivated by ethos, customer need and external catalysts will be the largest drivers of how this idea maze unfolds.  Let's see how the criteria above map to the three crypto sub-theses.
 
@@ -248,7 +248,7 @@ While the theses are justifiably motivated by ethos, customer need and external 
 
 <br/>
 
-### Timing
+### The Timing of It All
 
 #### Long-term: It's not a competition.
 
@@ -280,12 +280,14 @@ So instead of asking what will come true vs not come true, it may be more fruitf
 
 <br/>
 
-### Assessing what's next.
+### Assessing What's Next
 
 The conceptual framework above should help any of us begin to assess the value proposition, the customer and their needs.  From there, it is up to the each of us to interpret the potential size of each market and how compelling each thesis is.  I'd love to see more analytical follow ups, but the below is my intuitive take:
 <br/>
 
-#### Sound money is here to stay.
+#### Sound Money: In Code We Trust
+
+Sound money is here to stay.
 
 (1) Money is simply a ledger of who owns how much of something.  And weirdly enough what it fundamentally requires is that others are willing to exchange goods/services with it and hold it.  (2) Perhaps more importantly, we've built incredibly efficient and borderless information sharing and consumption platforms over the past two decades (such as search, social media and instant messaging).  **Those two points combined has made now a uniquely compelling time to experiment with a concept of decentralized digital money.**  It is now faster and more inexpensive than ever to create an idea and to share it virally with the world, and now that money can be money.  Still mind-boggling to me.
 
@@ -299,7 +301,9 @@ One aspect of this thesis I'm passionate about is wealth distribution (and surpr
 
 <br/>
 
-#### Web3 faces a high bar for adoption.
+#### Web3: UX vs Trust
+
+Web3 faces a high bar for adoption.
 
 While the social need for an Internet without abuse of centralized control must absolutely recognized, **the customer-focused framework paints a challenging view of the adoption path today**.  It has a (very important but) small customer base with a strong need, trying to reach an audience that is already satisfied by (addicted to?) incumbent platforms.  This was one of the difficult realizations, especially as someone who is passionate about the tenets of web3.
 
@@ -315,7 +319,7 @@ This all said, I believe that the companies that are working on web3 are fightin
 
 <br/>
 
-#### The Open Finance Idea Maze
+#### Open Finance: Bearer vs Registered Instruments
 
 And within in a maze, there's another maze.  Welcome to the recursive crypto maze.
 
@@ -367,7 +371,7 @@ This section does not seek to argue the merits of one thesis over another but in
 
 <br/>
 
-### Challenging Assumptions
+### Exploring Assumptions and Rebuttals
 
 It's worth discussing what assumptions could change and change the implications of the cognitive dissonance discussed above.
 
@@ -378,7 +382,7 @@ It's worth discussing what assumptions could change and change the implications 
 
 <br/>
 
-### How can we contribute today?
+### How Can We Contribute Today?
 
 Looking at the challenges above and being discouraged is like writing off the Internet in 1990 and saying "this won't work."  The productive response is to "[be a hyperrealist](https://inside.bwater.com/publications/principles_excerpt)" and approach the solvable problems today.  For example:
 
@@ -396,7 +400,7 @@ Looking at the challenges above and being discouraged is like writing off the In
 
 <br/>
 
-### Conclusion
+### Right Values + Uncertainty = Opportunity
 
 The crypto community is working incredibly hard to bend the arc of technological adoption towards openness, economic mobility, and networks that serve (rather than extract from) participants.
 
