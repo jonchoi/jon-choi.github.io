@@ -58,7 +58,7 @@ With that, I'd like to share the beginnings of my crypto idea maze (open source 
 
 #### In the beginning**, there was Bitcoin.
 
-The *initial intent* for Bitcoin is very clear.
+The *initial intent* for [Bitcoin](https://bitcoin.org/bitcoin.pdf) is very clear.
 
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.
 
