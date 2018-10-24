@@ -38,7 +38,7 @@ categories: crypto
 
 ### The Idea Maze
 
-The [idea maze](http://cdixon.org/2013/08/04/the-idea-maze/) metaphor stems from the fact that a technology trend has various adoption paths that lead to varying levels of success.
+The [idea maze](http://cdixon.org/2013/08/04/the-idea-maze/) metaphor stems from the fact that a technology trend has various adoption paths that lead to varying levels of success (h/t Balaji Srinivasan & Chris Dixon).
 
 > Good startup ideas are well developed, multi-year plans that contemplate many possible paths according to how the world changes.
 
