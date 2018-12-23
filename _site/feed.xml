@@ -1,5 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-11T16:37:55-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">exploring entropy.</title><subtitle>I write stuff here.
-</subtitle><author><name>Jon Choi</name></author><entry><title type="html">Enter the Crypto Idea Maze</title><link href="http://localhost:4000/cryptoideamaze/" rel="alternate" type="text/html" title="Enter the Crypto Idea Maze" /><published>2018-10-11T00:00:00-07:00</published><updated>2018-10-11T00:00:00-07:00</updated><id>http://localhost:4000/cryptoideamaze</id><content type="html" xml:base="http://localhost:4000/cryptoideamaze/">&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt;  It’s early in the game for crypto, and an idea maze helps us dig deeper and discern between compelling adoption paths and dead ends.  Bitcoin then Ethereum catalyzed excitement for “crypto” broadly, and the industry is debating the merits of “sound money,” “web3” and “open finance.”  While each share the same ethos of disintermediation, they require different features to succeed and are competing against different alternatives.  Inheriting not only the ethos of decentralization but also the technical tradeoffs of its predecessors has resulted in an underlying cognitive dissonance.  The way to resolve the dissonance is to forget the familiar narratives, and instead to examine: the novel features of the technology, who the core customers are, who is failing to serve them now and why there can be a compelling new product today.  Let’s enter the crypto idea maze.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://jonchoi.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jonchoi.com/" rel="alternate" type="text/html" /><updated>2018-12-23T17:53:40+09:00</updated><id>https://jonchoi.com/feed.xml</id><title type="html">exploring entropy.</title><subtitle>I write stuff here.
+</subtitle><author><name>Jon Choi</name></author><entry><title type="html">A Trojan Horse for Open Networks</title><link href="https://jonchoi.com/opennetworks/" rel="alternate" type="text/html" title="A Trojan Horse for Open Networks" /><published>2018-12-19T00:00:00+09:00</published><updated>2018-12-19T00:00:00+09:00</updated><id>https://jonchoi.com/opennetworks</id><content type="html" xml:base="https://jonchoi.com/opennetworks/">&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; The word “blockchain” has unfortunately lost much meaning due to overuse. What will outlast the booms and busts is the idea of open networks. Participant ownership and open architecture are laying a modular foundation for the future of value transfer in the spirit of open source software.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://wp.production.patheos.com/blogs/1morefilmblog/files/2014/06/trojanhorse.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-hype-the-hangover-and-the-cure&quot;&gt;The hype, the hangover, and the cure.&lt;/h3&gt;
+
+&lt;p&gt;Blockchain is a database. A cryptographically linked list. For the uninitiated, imagine spreadsheets tied together by a password.&lt;/p&gt;
+
+&lt;p&gt;A database never changed the world, but what we can do with organized data has and will continue to do so.&lt;/p&gt;
+
+&lt;p&gt;After reflecting on the mania and the subsequent doubt, I can’t help but think both emotions are exaggerated.&lt;/p&gt;
+
+&lt;p&gt;The longer term future remains unchanged. And yet it felt manic &amp;amp; exuberant in 2017, but confused &amp;amp; directionless today.&lt;/p&gt;
+
+&lt;p&gt;“Crypto” used to be simple: an experiment for a digital currency without a centralized settlement layer. Cypherpunk money.&lt;/p&gt;
+
+&lt;p&gt;Now, “crypto” includes not only the cypherpunks but also Silicon Valley, governments, investment banks and recently even the likes of the IMF and AWS.&lt;/p&gt;
+
+&lt;p&gt;Young and old. Hackers and suits. Con artists and visionaries. The new Wild West.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But because of its mimetic fatigue, the word “blockchain” has lost meaning just like the word “love,” “freedom,” or “amazing.” General, vague, and un-uniquely positive.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Amidst the hype, zooming out keeps us grounded. Focusing less on the next “narrative” in 6 months and more on what will remain in 20 years. It’s a great rough compass. Inherently impossible yet clarifying.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;retire-words-that-have-lost-meaning&quot;&gt;Retire words that have lost meaning.&lt;/h3&gt;
+
+&lt;p&gt;The word “blockchain” has come to be associated with everything from digital currency, digital commodity, banking services, Internet services, supply chains, cost reduction, transparency, to speculation and scams.&lt;/p&gt;
+
+&lt;p&gt;Simple buzzwords are often countersignals for finding teams solving problems for customers, and &lt;strong&gt;everyone would be better off if we retire the word “blockchain” from non-technical discussions.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Why? Clarity will:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make the industry more credible.&lt;/li&gt;
+  &lt;li&gt;Lead entrepreneurs and developers in more compelling directions–preventing misallocated time and capital.&lt;/li&gt;
+  &lt;li&gt;Remove room for bad actors to jump in with vague promises.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That said, if we’re talking about a cryptographically linked list and alternate implementations, you’re welcome to use the b-word to your heart’s desire.&lt;/p&gt;
+
+&lt;p&gt;Not much will be at loss. Compelling projects can describe their business without the word, and scam projects won’t be able to say much without it.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;open-networks-not-blockchain&quot;&gt;Open networks, not blockchain.&lt;/h3&gt;
+
+&lt;p&gt;If we retire the word “blockchain,” then what is the common thread among the various startups in the industry?&lt;/p&gt;
+
+&lt;p&gt;My guess is that cryptographically linked lists, various Internet monies and smart contracts are “the trees” and not “the forest.” The various “blockchain” ideas are all puzzle pieces for a world built with open networks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open networks are networks that share resources and responsibilities with their participants.&lt;/strong&gt; Open networks are characterized by data architecture (or operations) that allows for participants to own the data (assets) or access (earnings). Open networks accelerate progress by (1) experimenting faster with modular architecture and (2) incentivizing people to reward better networks with their attention/time/business.&lt;/p&gt;
+
+&lt;p&gt;Some dimensions include open &amp;amp; easy access to:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Data from the network. Can verify, share and query data that you contribute.&lt;/li&gt;
+  &lt;li&gt;Building on the network. Can build adjacent services and alternate interfaces.&lt;/li&gt;
+  &lt;li&gt;Wealth from the network. Receive share of revenue and assets.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In contrast, managed networks (or closed networks) are networks that provide a service in exchange for your assets. They make revenue by (1) selling you products based on the assets you’ve provided them or (2) renting/selling those assets to third parties.&lt;/p&gt;
+
+&lt;p&gt;Notably, the aggregating forces of the past several decades has made it more profitable provide the service for free to capture more market share and to rather sell the assets traded (data and attention) for the service provided.&lt;/p&gt;
+
+&lt;p&gt;The corollary to the shared benefits of open networks is that participants also need to assume some responsibilities. Manage keys. Upload files. Verify each other’s work. Make the network more useful and safer for peers.&lt;/p&gt;
+
+&lt;p&gt;It’s not binary (open or closed), but rather a spectrum. The degree of openness vary across the dimensions discussed above. Some managed networks may even start to exhibit aspects of participant owned networks–with or without blockchain. For example, Airbnb is considering &lt;a href=&quot;https://www.wsj.com/articles/airbnb-proposes-giving-hosts-a-stake-in-the-company-1537552948&quot;&gt;a program to give its top hosts equity in the company&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Many have made compelling &lt;a href=&quot;https://a16z.com/2018/07/26/cryptonetworks-and-decentralization-building-blocks/&quot;&gt;analogies&lt;/a&gt; that &lt;a href=&quot;https://www.coindesk.com/worst-crypto-networks-will-biggest&quot;&gt;open networks are more like cities&lt;/a&gt; than firms. And if managed networks are like castles, where farmers took safety under the trust of the lord, open networks are more like urban sprawls (more on this here: &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar&quot;&gt;Cathedral and the Bazaar&lt;/a&gt; or &lt;a href=&quot;https://www.amazon.com/Square-Tower-Networks-Freemasons-Facebook/dp/0735222916&quot;&gt;The Square and the Tower&lt;/a&gt;). Residents benefit from the work of previous residents and serve other residents by committing labor and capital to the city. Following basic rules, residents are free to enjoy the commons and participate–making the city vibrant.&lt;/p&gt;
+
+&lt;p&gt;This matters more now than ever. Wealth inequality and lack of trust in institutions are the largest risks to societal stability today. As such, open networks are essential infrastructure for a stable and cooperative future.&lt;/p&gt;
+
+&lt;p&gt;Despite the greed/hype of 2017, the intuition that crypto &amp;amp; the b-word are on the right side of history is likely stemming from this latent potential of open networks.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-trojan-horse&quot;&gt;A Trojan Horse&lt;/h3&gt;
+
+&lt;p&gt;In this greater arc of network participants having more ownership over the network they sustain, and of citizens having more ownership over the commons they build, the b-word was a Trojan Horse. A shared linguistic facade to fight for this ethos.&lt;/p&gt;
+
+&lt;p&gt;The b-word space of 2017 was an interesting amalgamation of people looking to fight for ethos via money, and people looking to make money via ethos. Replacing the b-word with open networks can help inform what parts of this industry we should embrace and what parts to shed off in order to come back stronger.&lt;/p&gt;
+
+&lt;p&gt;All this aside, I’m incredibly excited for programming open networks where participants have more power. Tools to build better networks should be exciting for new network builders and existing participants alike. It will be a long road but an inevitable one.&lt;/p&gt;
+
+&lt;p&gt;Stagnant services that overly rely on game theoretic moats should wake up. Your time is up. Whether abruptly or over time, the world will trend towards more openness and shared stewardship of the commons.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Jon Choi</name></author><summary type="html">tl;dr The word “blockchain” has unfortunately lost much meaning due to overuse. What will outlast the booms and busts is the idea of open networks. Participant ownership and open architecture are laying a modular foundation for the future of value transfer in the spirit of open source software.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jonchoi.com/trojanhorse.jpg" /></entry><entry><title type="html">Enter the Crypto Idea Maze</title><link href="https://jonchoi.com/cryptoideamaze/" rel="alternate" type="text/html" title="Enter the Crypto Idea Maze" /><published>2018-10-11T00:00:00+09:00</published><updated>2018-10-11T00:00:00+09:00</updated><id>https://jonchoi.com/cryptoideamaze</id><content type="html" xml:base="https://jonchoi.com/cryptoideamaze/">&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt;  It’s early in the game for crypto, and an idea maze helps us dig deeper and discern between compelling adoption paths and dead ends.  Bitcoin then Ethereum catalyzed excitement for “crypto” broadly, and the industry is debating the merits of “sound money,” “web3” and “open finance.”  While each share the same ethos of disintermediation, they require different features to succeed and are competing against different alternatives.  Inheriting not only the ethos of decentralization but also the technical tradeoffs of its predecessors has resulted in an underlying cognitive dissonance.  The way to resolve the dissonance is to forget the familiar narratives, and instead to examine: the novel features of the technology, who the core customers are, who is failing to serve them now and why there can be a compelling new product today.  Let’s enter the crypto idea maze.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -9,12 +97,12 @@
 
 &lt;h4 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h4&gt;
 &lt;ol&gt;
-  &lt;li&gt;“What is an idea maze?”&lt;/li&gt;
+  &lt;li&gt;The Idea Maze&lt;/li&gt;
   &lt;li&gt;Before the Maze: Bitcoin then Smart Contracts&lt;/li&gt;
   &lt;li&gt;Enter the Maze: The Three Theses&lt;/li&gt;
   &lt;li&gt;Cognitive Dissonance&lt;/li&gt;
-  &lt;li&gt;Customers, Alternatives and Intermediate Utility&lt;/li&gt;
-  &lt;li&gt;“How are your customers faring without you?”&lt;/li&gt;
+  &lt;li&gt;The Way Out: Customers, Alternatives and Intermediate Utility&lt;/li&gt;
+  &lt;li&gt;Waiting for Catalysts: How Badly Do They Need You?&lt;/li&gt;
   &lt;li&gt;The Timing of It All&lt;/li&gt;
   &lt;li&gt;Assessing What’s Next
     &lt;ol&gt;
@@ -23,16 +111,16 @@
       &lt;li&gt;Open Finance: Bearer vs Registered Instruments&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;Exploring Assumptions and Rebuttals.&lt;/li&gt;
-  &lt;li&gt;“How can we contribute today?”&lt;/li&gt;
-  &lt;li&gt;Conclusion&lt;/li&gt;
+  &lt;li&gt;Exploring Assumptions and Rebuttals&lt;/li&gt;
+  &lt;li&gt;How Can We Contribute Today?&lt;/li&gt;
+  &lt;li&gt;Right Values + Uncertainty = Opportunity&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;the-idea-maze&quot;&gt;The Idea Maze&lt;/h3&gt;
 
-&lt;p&gt;The &lt;a href=&quot;http://cdixon.org/2013/08/04/the-idea-maze/&quot;&gt;idea maze&lt;/a&gt; metaphor stems from the fact that a technology trend has various adoption paths that lead to varying levels of success.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;http://cdixon.org/2013/08/04/the-idea-maze/&quot;&gt;idea maze&lt;/a&gt; metaphor stems from the fact that a technology trend has various adoption paths that lead to varying levels of success (h/t Balaji Srinivasan &amp;amp; Chris Dixon).&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Good startup ideas are well developed, multi-year plans that contemplate many possible paths according to how the world changes.&lt;/p&gt;
@@ -46,17 +134,17 @@
 
 &lt;p&gt;For example, a sports fan and an experienced coach are both watching a game and see the same inputs, but they notice vastly different levels of detail.  While a sports fan can be excited about what’s happening, the good coach can see how to navigate the opposing team, how certain changes of the roster or formation could be effective, and reliably affect the course of the game.  Technology and adoption seem no different.&lt;/p&gt;
 
-&lt;p&gt;This feels especially salient for crypto because it is multidisciplinary and requires cooperation among many stakeholders across industries and geographies.  Also, mapping the idea maze seems especially more important early in the lifecycle of a platform (e.g. web, social media, mobile).  Because vision and ethos are currently leading ahead of adoption, it is not clear from this vantage point which approaches are headed towards a market with strong demand and sustainable economics vs a dead end (&lt;em&gt;i.e.&lt;/em&gt; early).&lt;/p&gt;
+&lt;p&gt;This feels especially salient for crypto because it is multidisciplinary and requires cooperation among many stakeholders across industries and geographies.  Also, mapping the idea maze seems especially more important early in the lifecycle of a platform (&lt;em&gt;e.g.&lt;/em&gt; web, social media, mobile).  Because vision and ethos are currently leading ahead of adoption, it is not clear from this vantage point which approaches are headed towards a market with strong demand and sustainable economics vs a dead end (&lt;em&gt;i.e.&lt;/em&gt; early).&lt;/p&gt;
 
-&lt;p&gt;With that, I’d like to share a rough outline of how I construct my crypto idea maze (open source all the things!).  We will focus on challenges in reconciling core assumptions of various crypto theses, and we will save specific adoption paths (go to market + geo) and deep-dives on applications for another time.&lt;/p&gt;
+&lt;p&gt;With that, I’d like to share the beginnings of my crypto idea maze (open source all the things!).  We will focus on challenges in reconciling core assumptions of various crypto theses, and we will save specific adoption paths (go to market + geo) and deep-dives on applications for another time.  &lt;strong&gt;As such, this is not the “full maze,” but I hope you’ll reach out to continue constructing the maze together.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;review-before-the-maze&quot;&gt;Review: Before the Maze.&lt;/h3&gt;
+&lt;h3 id=&quot;before-the-maze-bitcoin-then-smart-contracts&quot;&gt;Before the Maze: Bitcoin then Smart Contracts&lt;/h3&gt;
 
 &lt;h4 id=&quot;in-the-beginning-there-was-bitcoin&quot;&gt;In the beginning**, there was Bitcoin.&lt;/h4&gt;
 
-&lt;p&gt;The &lt;em&gt;initial intent&lt;/em&gt; for Bitcoin is very clear.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;initial intent&lt;/em&gt; for &lt;a href=&quot;https://bitcoin.org/bitcoin.pdf&quot;&gt;Bitcoin&lt;/a&gt; is very clear.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.&lt;/p&gt;
@@ -74,7 +162,7 @@
 
 &lt;p&gt;It is important to note that &lt;strong&gt;the innovation explicitly traded off efficiency&lt;/strong&gt; in order to provide censorship resistance and flexible membership set of participants (anyone can join or leave the network at any time).  We will come back to this, but in the meanwhile something else captured the attention of the community.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;** To be fair, Bitcoin was preceded by Digicash (Chaum 1989) and bit gold (Szabo 1998).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;** To be fair, Bitcoin was preceded by Digicash (Chaum 1989) and Bit Gold (Szabo 1998).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -86,19 +174,19 @@
 
 &lt;p&gt;The idea of smart contracts have been around for quite some time (&lt;a href=&quot;http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html&quot;&gt;coined and popularized by Nick Szabo in 1994&lt;/a&gt;, quoted above), and the demand to implement smart contract capability had a resurgence through the Bitcoin community (&lt;a href=&quot;https://www.rsk.co/&quot;&gt;RSK&lt;/a&gt;, &lt;a href=&quot;https://en.bitcoin.it/wiki/Colored_Coins&quot;&gt;Colored Coins&lt;/a&gt;, &lt;a href=&quot;https://blog.omni.foundation/2013/11/29/a-brief-history-of-mastercoin/&quot;&gt;Mastercoin&lt;/a&gt;). &lt;a href=&quot;https://vitalik.ca/general/2017/09/14/prehistory.html&quot;&gt;One person working on Mastercoin was Vitalik Buterin&lt;/a&gt;, who thought the idea of extending the Bitcoin protocol was exciting yet a limited implementation of the full potential of smart contracts.  His ideas diverged enough from the priorities of the Mastercoin team that it wasn’t being implemented in Mastercoin, and &lt;a href=&quot;https://web.archive.org/web/20131219030753/http://vitalik.ca/ethereum.html&quot;&gt;Ethereum was born&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;So, while Bitcoin achieved consensus over the state of a transaction ledger (&lt;em&gt;i.e.&lt;/em&gt; accounting), this branch of the movement began experimenting with consensus on the state of a computer replicated in a distributed network around the world (&lt;em&gt;i.e.&lt;/em&gt; distributed virtual machine).&lt;/p&gt;
+&lt;p&gt;While Bitcoin achieved consensus over the state of a transaction ledger (&lt;em&gt;i.e.&lt;/em&gt; accounting), this branch of the movement began experimenting with consensus on the state of a computer replicated in a distributed network around the world (&lt;em&gt;i.e.&lt;/em&gt; distributed virtual machine).&lt;/p&gt;
 
 &lt;p&gt;It’s worth noting that, while cloud computing focused on getting distributed computers to do things quickly and efficiently to serve demanding applications within a trusted setting (&lt;em&gt;i.e.&lt;/em&gt; datacenter controlled by one party), decentralized computing focuses on allowing computers that don’t necessarily trust each other to agree on a shared state of a computer.  While adding computers to a cloud infrastructure makes the network more computationally productive (in varying degrees depending on technical architecture), decentralized infrastructure is instead optimized to maintain a certain level of “trustlessness” (or threshold for bad actors).  Therefore, adding computers to a decentralized network–while adding complexity–doesn’t add much, if any, computational throughput of the network.&lt;/p&gt;
 
 &lt;p&gt;Despite those limitations, Ethereum was attractive for many reasons but in particular: (1) it was now very easy to create and deploy uncensorable smart contracts into production (the awareness around Bitcoin mining certainly was an added catalyst for building a lively early mining community) and (2) people could now imagine, “if it’s possible to transact without intermediaries, what other interactions could we also manage without intermediaries?”  The simple analogy evolved from a digital “vending machine” that is owned by one party (and could thus be taken down, &lt;em&gt;i.e.&lt;/em&gt; Paypal) to one that is not owned by anyone, is unstoppable and still accessible to anyone in the world with an Internet connection.&lt;/p&gt;
 
-&lt;p&gt;Just as Bitcoin was timely for the zeitgeist of the financial crisis.  Ethereum was timely for consumers losing trust in various intermediaries, namely banks (&lt;a href=&quot;https://money.cnn.com/2016/09/08/investing/wells-fargo-created-phony-accounts-bank-fees/index.html&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://www.usatoday.com/story/money/2016/06/23/bank-america-pay-430m-settlements/86284438/&quot;&gt;2&lt;/a&gt;) and Internet giants (&lt;a href=&quot;https://www.nbcnews.com/business/consumer/trust-facebook-has-dropped-51-percent-cambridge-analytica-scandal-n867011&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://www.wired.com/2015/02/why-im-saying-goodbye-to-apple-google-and-microsoft/&quot;&gt;2&lt;/a&gt;).  This distributed computer concept generated excitement because the architecture has deep implications on possibilities to disintermediate those trust-required intermediary industries.  Some representative ideas/examples were decentralized Uber and Airbnb (web3) as well as decentralized platforms for lending, derivatives and startup investing (open finance).&lt;/p&gt;
+&lt;p&gt;As Bitcoin was timely for the zeitgeist of the financial crisis, Ethereum was timely for consumers losing trust in various intermediaries, namely banks (&lt;a href=&quot;https://money.cnn.com/2016/09/08/investing/wells-fargo-created-phony-accounts-bank-fees/index.html&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://www.usatoday.com/story/money/2016/06/23/bank-america-pay-430m-settlements/86284438/&quot;&gt;2&lt;/a&gt;) and Internet giants (&lt;a href=&quot;https://www.nbcnews.com/business/consumer/trust-facebook-has-dropped-51-percent-cambridge-analytica-scandal-n867011&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://www.wired.com/2015/02/why-im-saying-goodbye-to-apple-google-and-microsoft/&quot;&gt;2&lt;/a&gt;).  This distributed computer concept generated excitement because the architecture has deep implications on possibilities to rearchitect those trust-required intermediary industries.  Some representative early ideas/examples were decentralized Uber and Airbnb (“web3”) as well as decentralized platforms for lending, derivatives and startup investing (“open finance”).&lt;/p&gt;
 
 &lt;p&gt;We now have experiments that replace the simple transaction ledger in Bitcoin with various forms of distributed computation (&lt;em&gt;e.g.&lt;/em&gt; Ethereum, EOS, Dfinity, Tezos, Stellar).  This sets the stage for the Crypto Idea Maze (2018 vintage).&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;enter-the-crypto-idea-maze&quot;&gt;Enter the Crypto Idea Maze.&lt;/h3&gt;
+&lt;h3 id=&quot;enter-the-maze-the-three-theses&quot;&gt;Enter the Maze: The Three Theses&lt;/h3&gt;
 
 &lt;p&gt;We are in a fascinating part of the crypto idea maze in 2018; we have the proliferation of smart contract platforms, excitement around web3 &amp;amp; open finance, and the Bitcoin &amp;amp; privacy coin communities coalescing around the sound money narrative.&lt;/p&gt;
 
@@ -118,7 +206,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;hello-cognitive-dissonance&quot;&gt;Hello, cognitive dissonance!&lt;/h3&gt;
+&lt;h3 id=&quot;cognitive-dissonance&quot;&gt;Cognitive Dissonance&lt;/h3&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;Cognitive dissonance&lt;/em&gt; – The state of having inconsistent thoughts, beliefs, or attitudes.&lt;/p&gt;
@@ -148,7 +236,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;define-the-way-out-of-the-maze&quot;&gt;Define the way out of the Maze.&lt;/h3&gt;
+&lt;h3 id=&quot;the-way-out-customers-alternatives-and-intermediate-utility&quot;&gt;The Way Out: Customers, Alternatives and Intermediate Utility&lt;/h3&gt;
 
 &lt;p&gt;As such, there’s never been a higher premium for the ability to think independently.  We ingest narrative after narrative on a daily basis on Twitter, and conflicting assumption sets of these narratives are exactly what made this maze more complicated (be skeptical of this post too!).  The only way out of the maze is to think independently about the customer need and what features those needs will demand.&lt;/p&gt;
 
@@ -209,7 +297,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;how-badly-do-they-need-you&quot;&gt;How badly do they need you?&lt;/h3&gt;
+&lt;h3 id=&quot;waiting-for-catalysts-how-badly-do-they-need-you&quot;&gt;Waiting for Catalysts: How Badly Do They Need You?&lt;/h3&gt;
 
 &lt;p&gt;While the theses are justifiably motivated by ethos, customer need and external catalysts will be the largest drivers of how this idea maze unfolds.  Let’s see how the criteria above map to the three crypto sub-theses.&lt;/p&gt;
 
@@ -269,7 +357,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;timing&quot;&gt;Timing&lt;/h3&gt;
+&lt;h3 id=&quot;the-timing-of-it-all&quot;&gt;The Timing of It All&lt;/h3&gt;
 
 &lt;h4 id=&quot;long-term-its-not-a-competition&quot;&gt;Long-term: It’s not a competition.&lt;/h4&gt;
 
@@ -303,12 +391,14 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;assessing-whats-next&quot;&gt;Assessing what’s next.&lt;/h3&gt;
+&lt;h3 id=&quot;assessing-whats-next&quot;&gt;Assessing What’s Next&lt;/h3&gt;
 
 &lt;p&gt;The conceptual framework above should help any of us begin to assess the value proposition, the customer and their needs.  From there, it is up to the each of us to interpret the potential size of each market and how compelling each thesis is.  I’d love to see more analytical follow ups, but the below is my intuitive take:
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;sound-money-is-here-to-stay&quot;&gt;Sound money is here to stay.&lt;/h4&gt;
+&lt;h4 id=&quot;sound-money-in-code-we-trust&quot;&gt;Sound Money: In Code We Trust&lt;/h4&gt;
+
+&lt;p&gt;Sound money is here to stay.&lt;/p&gt;
 
 &lt;p&gt;(1) Money is simply a ledger of who owns how much of something.  And weirdly enough what it fundamentally requires is that others are willing to exchange goods/services with it and hold it.  (2) Perhaps more importantly, we’ve built incredibly efficient and borderless information sharing and consumption platforms over the past two decades (such as search, social media and instant messaging).  &lt;strong&gt;Those two points combined has made now a uniquely compelling time to experiment with a concept of decentralized digital money.&lt;/strong&gt;  It is now faster and more inexpensive than ever to create an idea and to share it virally with the world, and now that money can be money.  Still mind-boggling to me.&lt;/p&gt;
 
@@ -322,7 +412,9 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;web3-faces-a-high-bar-for-adoption&quot;&gt;Web3 faces a high bar for adoption.&lt;/h4&gt;
+&lt;h4 id=&quot;web3-ux-vs-trust&quot;&gt;Web3: UX vs Trust&lt;/h4&gt;
+
+&lt;p&gt;Web3 faces a high bar for adoption.&lt;/p&gt;
 
 &lt;p&gt;While the social need for an Internet without abuse of centralized control must absolutely recognized, &lt;strong&gt;the customer-focused framework paints a challenging view of the adoption path today&lt;/strong&gt;.  It has a (very important but) small customer base with a strong need, trying to reach an audience that is already satisfied by (addicted to?) incumbent platforms.  This was one of the difficult realizations, especially as someone who is passionate about the tenets of web3.&lt;/p&gt;
 
@@ -336,9 +428,11 @@
 
 &lt;p&gt;This all said, I believe that the companies that are working on web3 are fighting for an important ethos of empowering the user and building public utilities that serve everyone.  &lt;strong&gt;That is undoubtedly an ethos worth fighting for&lt;/strong&gt;, and I’m hopeful that the mission will help these teams navigate the idea maze to the right place, even if the path isn’t crystal clear today.  The teams working hard on valuable infrastructure R&amp;amp;D will always have an essential role to play in the broader ecosystem, no matter what the future holds.&lt;/p&gt;
 
+&lt;p&gt;&lt;em&gt;(edit: In a future post, will write more about alternate definitions of web3 that extend beyond “rip-and-replacing” web2–with a focus on participant-owned networks. May be worth updating the piece to reflect this important distinction.)&lt;/em&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;the-open-finance-idea-maze&quot;&gt;The Open Finance Idea Maze&lt;/h4&gt;
+&lt;h4 id=&quot;open-finance-bearer-vs-registered-instruments&quot;&gt;Open Finance: Bearer vs Registered Instruments&lt;/h4&gt;
 
 &lt;p&gt;And within in a maze, there’s another maze.  Welcome to the recursive crypto maze.&lt;/p&gt;
 
@@ -390,20 +484,19 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;challenging-assumptions&quot;&gt;Challenging Assumptions&lt;/h3&gt;
+&lt;h3 id=&quot;exploring-assumptions-and-rebuttals&quot;&gt;Exploring Assumptions and Rebuttals&lt;/h3&gt;
 
 &lt;p&gt;It’s worth discussing what assumptions could change and change the implications of the cognitive dissonance discussed above.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;“Value created by base layer is in excess of the inefficiency of the added layers.”&lt;/em&gt;  I find this argument difficult to believe because that would likely manifest in a thriving decentralized base layer and centralized trusted services specialized around that base layer.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“Tech reaches feature/SLA parity over time.”&lt;/em&gt;  This argues that tradeoffs at base layer could become much less expensive due to technological breakthroughs.  This will certainly be directionally correct at most points in time as research continues; effective replication factor of data, cost/time of nodes discovery, and data routing will most certainly decrease over time.  However, the more important question is if and when it can come down enough to make up for the UX gap for even the motivated user (then continuing to the average user).&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“Modularity of services and checks &amp;amp; balances provide value to the participant.”&lt;/em&gt;  For example, a version of the US that is run by one dictator that runs all three branches of government would certainly be more efficient than the checks and balances we have today, but more importantly it would be a fragile equilibrium.  Perhaps the decentralized base layer provides a way for the trusted intermediary services on top of the base layer to have checks &amp;amp; balances, resulting in a net improvement for the user.  This is vague at the moment, but would like to revisit this concept as the infrastructure and products mature.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Decreased compliance and human cost.&lt;/em&gt;  The tech itself maybe less efficient than the centralized counterpart, but perhaps reducing the recurring operational cost of intermediation (i.e. compliance backend, and various back office functions of banks)  will provide a net savings.  Cloud infrastructure is optimized for efficiency and lower cost, so the main way to have lower total cost is by tapping into underutilized hardware (zero capex, minimal opex) or by reducing repeated human administration cost of non-core / supporting services.  This is an interesting line of argument worth keeping an eye out for; not enough data points to confirm yet, but it’s possible and if true, revolutionary.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“Tech reaches feature/SLA parity over time.”&lt;/em&gt;  This argues that tradeoffs at base layer could become much less expensive due to technological breakthroughs.  This will certainly be directionally correct at most points in time as research continues; effective replication factor of data, cost/time of nodes discovery, and data routing will most certainly decrease over time.  However, the more important question is if and when it can come down enough to make up for the UX gap for even the motivated user (then further down for the average user).&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“Modularity of services and checks &amp;amp; balances provide value to the participant.”&lt;/em&gt;  For example, a version of the US that is run by one dictator that runs all three branches of government would certainly be more efficient than the checks and balances we have today, but more importantly it would be a fragile equilibrium.  Perhaps the decentralized base layer provides a way for the trusted intermediary services on top to have checks &amp;amp; balances, resulting in a net improvement for the user.  This is vague at the moment, but would like to revisit this concept as the infrastructure and products mature.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Decreased compliance and human cost.&lt;/em&gt;  The tech itself maybe less efficient than the centralized counterpart, but perhaps reducing the recurring operational cost of intermediation (i.e. compliance backend, and various back office functions of banks)  will provide a net savings.  Cloud infrastructure is optimized for efficiency and lower cost, so the main way to have lower total cost is by tapping into underutilized hardware (zero capex, minimal opex) or by reducing repeated human administration cost of non-core / supporting services.  This is an interesting line of argument worth keeping an eye out for; not enough data points to confirm yet, but it’s possible and if true, significant.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;how-can-we-contribute-today&quot;&gt;How can we contribute today?&lt;/h3&gt;
+&lt;h3 id=&quot;how-can-we-contribute-today&quot;&gt;How Can We Contribute Today?&lt;/h3&gt;
 
 &lt;p&gt;Looking at the challenges above and being discouraged is like writing off the Internet in 1990 and saying “this won’t work.”  The productive response is to “&lt;a href=&quot;https://inside.bwater.com/publications/principles_excerpt&quot;&gt;be a hyperrealist&lt;/a&gt;” and approach the solvable problems today.  For example:&lt;/p&gt;
 
@@ -426,7 +519,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+&lt;h3 id=&quot;right-values--uncertainty--opportunity&quot;&gt;Right Values + Uncertainty = Opportunity&lt;/h3&gt;
 
 &lt;p&gt;The crypto community is working incredibly hard to bend the arc of technological adoption towards openness, economic mobility, and networks that serve (rather than extract from) participants.&lt;/p&gt;
 
@@ -440,7 +533,7 @@
 
 &lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
 
-&lt;p&gt;&lt;em&gt;Many thanks to Martin Becze for discussions that led to this post.  Shout out to Jill Carlson, Tony Sheng, Linda Xie, Tom Ding, Zao Yang, Lily Liu for conversations that helped articulate these thoughts.  Thank you Vitalik Buterin for review of historical accounts.&lt;/em&gt;&lt;/p&gt;</content><author><name>Jon Choi</name></author><summary type="html">tl;dr It’s early in the game for crypto, and an idea maze helps us dig deeper and discern between compelling adoption paths and dead ends. Bitcoin then Ethereum catalyzed excitement for “crypto” broadly, and the industry is debating the merits of “sound money,” “web3” and “open finance.” While each share the same ethos of disintermediation, they require different features to succeed and are competing against different alternatives. Inheriting not only the ethos of decentralization but also the technical tradeoffs of its predecessors has resulted in an underlying cognitive dissonance. The way to resolve the dissonance is to forget the familiar narratives, and instead to examine: the novel features of the technology, who the core customers are, who is failing to serve them now and why there can be a compelling new product today. Let’s enter the crypto idea maze.</summary></entry><entry><title type="html">Ethereum Casper 101</title><link href="http://localhost:4000/casper/" rel="alternate" type="text/html" title="Ethereum Casper 101" /><published>2017-10-17T00:00:00-07:00</published><updated>2017-10-17T00:00:00-07:00</updated><id>http://localhost:4000/Casper101</id><content type="html" xml:base="http://localhost:4000/casper/">&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&quot;https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0&quot;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Many thanks to Martin Becze for discussions that led to this post.  Shout out to Jill Carlson, Tony Sheng, Linda Xie, Tom Ding, Sizhao Yang, Lily Liu for conversations that helped articulate these thoughts.  Thank you Vitalik Buterin for review of historical accounts.  Thank you Lakshman Sankar, Jordan Cooper for feedback.&lt;/em&gt;&lt;/p&gt;</content><author><name>Jon Choi</name></author><summary type="html">tl;dr It’s early in the game for crypto, and an idea maze helps us dig deeper and discern between compelling adoption paths and dead ends. Bitcoin then Ethereum catalyzed excitement for “crypto” broadly, and the industry is debating the merits of “sound money,” “web3” and “open finance.” While each share the same ethos of disintermediation, they require different features to succeed and are competing against different alternatives. Inheriting not only the ethos of decentralization but also the technical tradeoffs of its predecessors has resulted in an underlying cognitive dissonance. The way to resolve the dissonance is to forget the familiar narratives, and instead to examine: the novel features of the technology, who the core customers are, who is failing to serve them now and why there can be a compelling new product today. Let’s enter the crypto idea maze.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jonchoi.com/maze.jpg" /></entry><entry><title type="html">Ethereum Casper 101</title><link href="https://jonchoi.com/casper/" rel="alternate" type="text/html" title="Ethereum Casper 101" /><published>2017-10-17T00:00:00+09:00</published><updated>2017-10-17T00:00:00+09:00</updated><id>https://jonchoi.com/Casper101</id><content type="html" xml:base="https://jonchoi.com/casper/">&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&quot;https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0&quot;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;tl;dr&lt;/em&gt; Casper will implement proof of stake in Ethereum. We begin with a review on why proof of stake matters and continue with its strengths &amp;amp; weaknesses. This post aims to provide a broad overview of Casper and clarify some of the confusion with respect to the two protocol design efforts related to Casper. The two proposed implementations share the same core design principle: applying cryptoeconomic mechanism design to secure the network while managing challenges regarding liveness, safety and synchrony assumptions. This post is also an overview of the progress so far and the challenges that lie ahead. Most importantly for fellow newcomers, the post identifies &amp;amp; defines key concepts and ties together various helpful resources under one context. The overarching intention is to make Casper and proof of stake more approachable to everyone in the community.&lt;/p&gt;
 
@@ -789,7 +882,7 @@ OK, this was a lot of information for a “101,” but now you have all the basi
 
 &lt;p&gt;If you’ve made it this far, thank you for reading. Hope this helped and please reach out with questions, concerns or comments via email or twitter. We would love to hear your feedback!&lt;/p&gt;
 
-&lt;p&gt;Special thanks to Vitalik Buterin, Vlad Zamfir, Virgil Griffith and Karl Floersch for discussion and review. All errors remain my own.&lt;/p&gt;</content><author><name>Jon Choi</name></author><summary type="html">Originally posted on Medium</summary></entry><entry><title type="html">A mind trick to write more often</title><link href="http://localhost:4000/mindtrick/" rel="alternate" type="text/html" title="A mind trick to write more often" /><published>2017-06-02T00:00:00-07:00</published><updated>2017-06-02T00:00:00-07:00</updated><id>http://localhost:4000/mindtrick</id><content type="html" xml:base="http://localhost:4000/mindtrick/">&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&quot;https://medium.com/@jonchoi/a-mind-trick-to-write-more-often-5b5a930b1804&quot;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Special thanks to Vitalik Buterin, Vlad Zamfir, Virgil Griffith and Karl Floersch for discussion and review. All errors remain my own.&lt;/p&gt;</content><author><name>Jon Choi</name></author><summary type="html">Originally posted on Medium</summary></entry><entry><title type="html">A mind trick to write more often</title><link href="https://jonchoi.com/mindtrick/" rel="alternate" type="text/html" title="A mind trick to write more often" /><published>2017-06-02T00:00:00+09:00</published><updated>2017-06-02T00:00:00+09:00</updated><id>https://jonchoi.com/mindtrick</id><content type="html" xml:base="https://jonchoi.com/mindtrick/">&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&quot;https://medium.com/@jonchoi/a-mind-trick-to-write-more-often-5b5a930b1804&quot;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*XPwkOboJ-YXq2yQkQIDQsw.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
