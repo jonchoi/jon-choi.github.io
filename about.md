@@ -4,22 +4,20 @@ title: about
 permalink: /about/
 ---
 
-<h4>Software, scaling & cost of capital 🤓</h4>
+<h3>Software, scaling & cost of capital.</h3>
 
 Most recently, I worked at the [Ethereum Foundation][ef-link] with a focus on R&D ([grants][grants-link], ecosystem strategy and economics research).
-Previously, I worked on [storage infrastructure][magic-pocket] and product engineering at Dropbox. 
-Before that, I helped restructure corporate and soverign debt at [Lazard Freres][lazard-link] in New York. 
+Previously, I worked on [storage infrastructure][magic-pocket] and product engineering at Dropbox.
+Before that, I helped restructure corporate and soverign debt at [Lazard Freres][lazard-link] in New York.
 I studied alternative investments and behavioral economics while getting my economics degree at Harvard.
 
-Currently, I am advising & investing part-time while taking some time to figure out what's next.
+Here are some of the recent talks that I gave: [Beyond Blocks, July 2018][beyond-blocks].
 
-Here are some of the recent talks that I gave: [Beyond Blocks, July 2018][beyond-blocks], more coming soon.
+I like to play racquet sports, cook and enjoy quiet cafes.
+I've lived in 9 cities, and am currently remote / in SF.
 
-Fun facts: I like to play racquet sports and [nosedive surfboards][nosedive-link]. 
-I've lived in 9 cities, and love eating spicy food.
-
-Currently reading: [Thinking in Bets][thinking-in-bets-link]. Accidental Superpower.
-Recently read: [The Courage to be Disliked][courage-link].
+Currently reading: The Only Game in Town by El-Erian (monetary policy implications).
+Recently read: [The Courage to be Disliked][courage-link]. Who is Michael Ovitz? (CAA).
 
 [ef-link]: https://ethereum.org/
 [magic-pocket]: https://blogs.dropbox.com/tech/2016/03/magic-pocket-infrastructure/
