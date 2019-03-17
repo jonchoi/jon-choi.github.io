@@ -14,10 +14,15 @@ I studied alternative investments and behavioral economics while getting my econ
 Here are some of the recent talks that I gave: [Beyond Blocks, July 2018][beyond-blocks].
 
 I like to play racquet sports, cook and enjoy quiet cafes.
-I've lived in 9 cities, and am currently remote / in SF.
+I've lived in 9 cities, and am currently in California.
 
-Currently reading: The Only Game in Town by El-Erian (monetary policy implications).
-Recently read: [The Courage to be Disliked][courage-link]. Who is Michael Ovitz? (CAA).
+Currently reading: Delivering Happiness, Atlas Shrugged, Oxygen Advantage.
+Recently read: 
+Wisdom of Insecurity.
+Namiya (in Korean).
+Hackers & Painters.
+[The Courage to be Disliked][courage-link].
+Who is Michael Ovitz? (CAA).
 
 [ef-link]: https://ethereum.org/
 [magic-pocket]: https://blogs.dropbox.com/tech/2016/03/magic-pocket-infrastructure/
