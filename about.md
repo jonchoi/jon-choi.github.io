@@ -17,20 +17,20 @@ I like to play racquet sports, cook and sing.<br/>
 In an alternate reality, I'd be shooting film.<br/>
 I've lived in 9 cities, and am currently in California.
 
-Here's my newsletter: [Subtack][substack-link].
+Here's my newsletter: [Substack][substack-link].
 
 Currently reading:<br/>
-Genghis Khan<br/>
-Atlas Shrugged<br/>
+Genghis Khan,
+Atlas Shrugged,
 Shoedog<br/>
 
 Recently read: <br/>
-Delivering Happiness<br/>
-Wisdom of Insecurity<br/>
-Namiya (in Korean)<br/>
-Oxygen Advantage<br/>
-Hackers & Painters<br/>
-[The Courage to be Disliked][courage-link]<br/>
+Delivering Happiness,
+Wisdom of Insecurity,
+Namiya (in Korean),
+Oxygen Advantage,
+Hackers & Painters,
+[The Courage to be Disliked][courage-link],
 Who is Michael Ovitz? (CAA)<br/>
 
 
