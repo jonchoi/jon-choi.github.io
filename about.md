@@ -6,7 +6,7 @@ permalink: /about/
 
 <h3>Software, scaling & cost of capital.</h3>
 
-Building an e-commerce startup in LA. [We're hiring][https://twitter.com/jon_choi_/status/1166456563579510784].<br/>
+Building an e-commerce startup in LA. [We're hiring][hiring-tweet].<br/>
 
 Previously:<br/>
 Ethereum Foundation with a focus on global ecosystem growth.<br/>
@@ -30,6 +30,7 @@ Shoedog,
 Delivering Happiness,
 Wisdom of Insecurity<br/>
 
+[hiring-tweet]: https://twitter.com/jon_choi_/status/1166456563579510784
 [ef-link]: https://ethereum.org/
 [magic-pocket]: https://blogs.dropbox.com/tech/2016/03/magic-pocket-infrastructure/
 [thinking-in-bets-link]: https://www.amazon.com/dp/B074DG9LQF/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
