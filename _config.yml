@@ -1,9 +1,9 @@
-title: entropy fuels change
-author: jon choi
+title: Jon Choi
+author: Jon Choi
 email: hello@jonchoi.com
 url: "https://jonchoi.com"
 description: > # this means to ignore newlines until "twitter_username:"
-  I write sometimes.
+  Why not make it more exciting?
 
 # social links
 twitter_username: jon_choi_
@@ -21,7 +21,7 @@ linkedin_username: jonathan-choi
 disqus:
   shortname: jonchoi
 
-# for testing future posts    
+# for testing future posts
 future: true
 
 # Mastodon instances
