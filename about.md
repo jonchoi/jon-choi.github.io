@@ -4,38 +4,36 @@ title: about
 permalink: /about/
 ---
 
-<h3>Software, scaling & cost of capital.</h3>
+<h3>life is surreal, elegant, playful</h3>
 
-Building an e-commerce startup in LA. [We're hiring][hiring-tweet].<br/>
+Our team is building something extraordinary in LA. If you're adventurous, write me why you want to join us.<br/>
 
-Previously:<br/>
-Ethereum Foundation with a focus on global ecosystem growth.<br/>
-[Storage infrastructure][magic-pocket] and product engineering at Dropbox.<br/>
-Restructure corporate and sovereign debt at [Lazard Freres][lazard-link] in New York.<br/>
-Economics at Harvard.
+History:<br/>
+Memes and Internet money @ Ethereum Foundation in planes & airbnbs.<br/>
+Storage infrastructure and product engineering at Dropbox in SF.<br/>
+Restructure debt at Lazard Freres in NYC.<br/>
+Economics at Harvard.<br/>
+Grew up in small town outside Seoul.<br/>
+Born in LA.<br/>
 
-I like to play racquet sports, cook and sing.<br/>
-In an alternate reality, I'd be shooting film.<br/>
-I've lived in 9 cities, and am currently in California.
+Tidbits:<br/>
+In an alternate reality, I'd be directing films.<br/>
+Lived in 9 cities.<br/>
+Love philosophy and fiction.<br/>
+For fun, I like to play racquet sports, cook and sing.<br/>
+Learning how to play go.<br/>
 
-Here's my newsletter: [Substack][substack-link].
-
-Currently reading:<br/>
-1Q84, High Output Management
+Reading:<br/>
+Romance of the Three Kingdoms, Tao Te Ching.
 <br/>
 
-Recently read: <br/>
+Read: <br/>
+Norweigian Wood,
+1Q84,
 Atlas Shrugged,
 Shoedog,
 Delivering Happiness,
 Wisdom of Insecurity<br/>
 
-[hiring-tweet]: https://twitter.com/jon_choi_/status/1166456563579510784
-[ef-link]: https://ethereum.org/
-[magic-pocket]: https://blogs.dropbox.com/tech/2016/03/magic-pocket-infrastructure/
-[thinking-in-bets-link]: https://www.amazon.com/dp/B074DG9LQF/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-[grants-link]: https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/
-[nosedive-link]: https://www.youtube.com/watch?v=ikmrzoxnQ3Q
-[lazard-link]: https://en.wikipedia.org/wiki/Lazard#Financial_advisory
-[beyond-blocks]: https://www.youtube.com/watch?v=Ob31hbfSQAs
-[substack-link]: https://jonchoi.substack.com/p/permaplanting-
+Favorite lenses: <br/>
+Carl Jung, Alan Watts, Ayn Rand, Haruki Murakami, Lao Tzu, Salvador Dali, Wes Anderson.<br/>
