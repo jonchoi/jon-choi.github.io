@@ -10,9 +10,9 @@ Our team is building something extraordinary in LA. If you're adventurous, write
 
 History:<br/>
 Memes and Internet money @ Ethereum Foundation in planes & airbnbs.<br/>
-Storage infrastructure and product engineering at Dropbox in SF.<br/>
-Restructure debt at Lazard Freres in NYC.<br/>
-Economics at Harvard.<br/>
+Storage infrastructure and product engineering @ Dropbox in SF.<br/>
+Restructure debt @ Lazard Freres in NYC.<br/>
+Economics @ Harvard.<br/>
 Grew up in small town outside Seoul.<br/>
 Born in LA.<br/>
 
