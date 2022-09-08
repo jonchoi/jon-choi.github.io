@@ -7,7 +7,7 @@ permalink: /about/
 <h3>pursuit of a surreal, elegant and playful life</h3>
 
 log:<br/>
-making consumer apps: (1) [Teleport](teleport.la): unfiltered outfit of the day app and (2) [Mood](mood.camera): your camera meets spotify to create memories for good friends and family <br/>
+making consumer apps: (1) [Teleport](teleport.la): unfiltered outfit of the day app and (2) [Mood](mood.camera): camera roll + spotify to create video memories for good friends and family <br/>
 Memes and Internet money @ Ethereum Foundation in planes & airbnbs.<br/>
 Storage infrastructure and product engineering @ Dropbox in SF.<br/>
 Restructure debt @ Lazard Freres in NYC.<br/>
