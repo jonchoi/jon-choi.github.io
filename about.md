@@ -4,11 +4,10 @@ title: about
 permalink: /about/
 ---
 
-<h3>life is surreal, elegant, playful</h3>
+<h3>pursuit of a surreal, elegant and playful life</h3>
 
-Our team is building something extraordinary in LA. If you're adventurous, write me why you want to join us.<br/>
-
-History:<br/>
+log:<br/>
+making consumer apps (teleport.la + mood.camera) <br/>
 Memes and Internet money @ Ethereum Foundation in planes & airbnbs.<br/>
 Storage infrastructure and product engineering @ Dropbox in SF.<br/>
 Restructure debt @ Lazard Freres in NYC.<br/>
@@ -21,10 +20,9 @@ In an alternate reality, I'd be directing films.<br/>
 Lived in 9 cities.<br/>
 Love philosophy and fiction.<br/>
 For fun, I like to play racquet sports, cook and sing.<br/>
-Learning how to play go.<br/>
 
 Reading:<br/>
-Romance of the Three Kingdoms, Tao Te Ching.
+mindfulness, lee woo: last prince of chosun
 <br/>
 
 Read: <br/>
@@ -33,7 +31,9 @@ Norweigian Wood,
 Atlas Shrugged,
 Shoedog,
 Delivering Happiness,
-Wisdom of Insecurity<br/>
+Wisdom of Insecurity,
+Romance of the Three Kingdoms, 
+Tao Te Ching<br/>
 
 Favorite lenses: <br/>
 Carl Jung, Alan Watts, Ayn Rand, Haruki Murakami, Lao Tzu, Salvador Dali, Wes Anderson.<br/>
