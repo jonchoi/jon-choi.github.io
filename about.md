@@ -7,8 +7,8 @@ permalink: /about/
 <h3>pursuit of a surreal, elegant and playful life</h3>
 
 Adventures:<br/>
-design+code+vision @ [Mood](mood.camera): camera roll + spotify to create video memories for good friends and family.<br/>
-design+code+vision @ [Teleport](teleport.la): unfiltered outfit of the day app.<br/>
+design+code+vision @ [Mood](https://mood.camera): camera roll + spotify to create video memories for good friends and family.<br/>
+design+code+vision @ [Teleport](https://teleport.la): unfiltered outfit of the day app.<br/>
 Memes and Internet money @ Ethereum Foundation in planes & airbnbs.<br/>
 Storage infrastructure and product engineering @ Dropbox in SF.<br/>
 Restructure debt @ Lazard Freres in NYC.<br/>
