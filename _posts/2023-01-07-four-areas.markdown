@@ -7,13 +7,23 @@ categories: general
 comments: true
 ---
 
+![alt text][old-bh-image]
+
+[old-bh-image]: https://i0.wp.com/www.martinturnbull.com/wp-content/uploads/2016/11/Beverly-Hills-city-limits-circa-1920s.jpg
+
 i watched babylon the movie recently and i was shocked by how rural beverly hills in california looked in 1920.
+
+![alt text][new-bh-image]
+
+[new-bh-image]: https://ca-times.brightspotcdn.com/dims4/default/aad3535/2147483647/strip/true/crop/4500x2998+0+0/resize/1200x799!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2Fc0%2F215bde6243019488f90a2920d14c%2Fdji-0784-edit.jpg
 
 all this wealth was created in only the past 100 years. it's hard to imagine california going away, but it's also hard to imagine it growing by anything close to what it did over the past 100 years.
 
+
+
 i'm sure the entertainment industry in california went through multiple booms and busts. as well as major paradigm shifts (e.g. silent -> audio, studio-led to talent-let to streaming-led). 
 
-but ultimately the whole trend was up and to the right: los angeles was becoming the entertainment capital of the world.
+but ultimately the whole trend was up and to the right: *los angeles was becoming the entertainment capital of the world.*
 
 being focused on technology, i realized that i was often stuck looking at the leaves and not the tree. twitter trends (chatgpt, ftx) and not the bigger story of where we're headed.
 
