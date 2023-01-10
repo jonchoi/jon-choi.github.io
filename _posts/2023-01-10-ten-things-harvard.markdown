@@ -5,7 +5,7 @@ permalink: /ten-things-harvard/
 date:   2023-01-10
 categories: general
 comments: true
-thumbnail: https://assets-global.website-files.com/581110f944272e4a11871c01/5a3d51b10252f900015e9dba_The-movable-chairs-are-rearranged-to-support-a-variety-of-needs-like-group-work-p-1080.jpeg
+image: /assets/harvard-yard.jpg
 ---
 
 Dear Larry,
