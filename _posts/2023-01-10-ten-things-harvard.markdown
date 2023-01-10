@@ -13,27 +13,27 @@ Your [letter on advising first-year students](https://www.harvardmagazine.com/20
 
 10 years after my graduation in 2013, below are 10 things I'd do differently at Harvard.
 
-Warmly, </br>
+Warmly, <br>
 Jon Choi
 
---  </br>
-Harvard College '13  </br>
-Quincy House </br>
-https://jonchoi.com </br>
+--  <br>
+Harvard College '13  <br>
+Quincy House <br>
+https://jonchoi.com <br>
 
 <br>
 
 ### Ten things I'd do differently at Harvard  
-1. **Stop competing with others.** We all competed w/ classmates to get into Harvard, stop that now. It's now about connecting. Not networking. Not sizing each other up. Not competing. Connecting. Getting to know your peers. What drives them. Why are they here? Where are they headed? Can you learn from each other? </br>  </br>
-2. **Forget trying to be popular.** This game is how you get trapped into mimetic desire (fighting to get what others seem to want). That is a never ending game that you don't have time for. Instead, explore and find what you're drawn to. Get to know your more quiet classmates (I bet they have a beautiful way of looking at the world and a depth of perception that being loud can't do justice). I suspect it's on the quiet edges and not the center of attention that treasures lie. </br> </br>
-3. **Forget what you think jobs want from your resume.** Are you really going to spend this once in a lifetime opportunity on increasing your GPA by 0.1? or what you think a fancy job wants? Treat this as a great video game: 4 years at Harvard. Play your heart out. Whatever that means to you. </br> </br>
-4. **Find and treasure kindred spirits.** Once you find what you are here to do, see who's also there. See who resonates with your purpose at Harvard. Some of them may be your lifelong friends. It will be rare that you will have a chance to meet this many kindred spirits this early in your life (you're lucky to have even one). To share memories together, to truly see each other (beyond resumes, clubs and popularity), to explore life together with curiosity is a gift. It's treasure hidden in plain sight, but you need to know how to claim it. Make your move. </br> </br>
-5. **Take the weird classes that catch your eye.** You don't need to justify it to your friends, your parents or yourself. Forget about your concentration and your identity. These four years are a golden time to let yourself stumble upon gold, upon a version of yourself. Let yourself get lucky by trying more things. Follow your intuition more than any expert, role model, advisor, friend or parent. </br> </br>
-6. **Treat each day as a bar of gold.** Each hour as a gold coin. Are you happy with how you spent your coins yesterday? Last week? Don't leave regrets in this short four year game.  </br> </br>
-7. **Generate more energy.** Work out. Sink deeper into your purpose. Don't forget your curiosities. Avoid negative people. Avoid gossip. Find people who are optimistic and that energize you. Bring them energy as well. If you don't have more energy than you can spend, you will get consumed by the pace of Harvard. Treat this as seriously as a professional athlete may treat working out. The more energy you have, the more you'll be able to get out of this place. </br> </br>
-8. **Explore each nook and cranny of campus** (and of Cambridge). This is one of the most beautiful set of buildings with amazing cohesive architecture and a story of who's come before you. Explore. Imagine who's been there before. Marvel at that this will continue long past your life. Make your mark by living each day to the fullest.  </br> </br>
-9. **Leave it better than you found it.** The school, the houses and the programs are not mere services for your enjoyment. They are the collective works of thousands of scholars who've come before you for hundreds of years. The value you'll see in this place will be directly correlated to how much you believe you've made it better. Quietly make it a better place. Take pride in knowing your contribution.  </br> </br>
-10. **Don't forget who you are.** You weren't invited here to become something else. You were invited here to become the most exciting version of you. Don't "become Harvard." Use the Harvard experience to "make Harvard you." The pull of the archetypical role models at Harvard will be strong. Use those to push yourself, but never forget who you are. Don't become the role model, become your highest self. </br> </br>
+1. **Stop competing with others.** We all competed w/ classmates to get into Harvard, stop that now. It's now about connecting. Not networking. Not sizing each other up. Not competing. Connecting. Getting to know your peers. What drives them. Why are they here? Where are they headed? Can you learn from each other? <br>
+2. **Forget trying to be popular.** This game is how you get trapped into mimetic desire (fighting to get what others seem to want). That is a never ending game that you don't have time for. Instead, explore and find what you're drawn to. Get to know your more quiet classmates (I bet they have a beautiful way of looking at the world and a depth of perception that being loud can't do justice). I suspect it's on the quiet edges and not the center of attention that treasures lie. <br>
+3. **Forget what you think jobs want from your resume.** Are you really going to spend this once in a lifetime opportunity on increasing your GPA by 0.1? or what you think a fancy job wants? Treat this as a great video game: 4 years at Harvard. Play your heart out. Whatever that means to you. <br>
+4. **Find and treasure kindred spirits.** Once you find what you are here to do, see who's also there. See who resonates with your purpose at Harvard. Some of them may be your lifelong friends. It will be rare that you will have a chance to meet this many kindred spirits this early in your life (you're lucky to have even one). To share memories together, to truly see each other (beyond resumes, clubs and popularity), to explore life together with curiosity is a gift. It's treasure hidden in plain sight, but you need to know how to claim it. Make your move. <br>
+5. **Take the weird classes that catch your eye.** You don't need to justify it to your friends, your parents or yourself. Forget about your concentration and your identity. These four years are a golden time to let yourself stumble upon gold, upon a version of yourself. Let yourself get lucky by trying more things. Follow your intuition more than any expert, role model, advisor, friend or parent. <br>
+6. **Treat each day as a bar of gold.** Each hour as a gold coin. Are you happy with how you spent your coins yesterday? Last week? Don't leave regrets in this short four year game.  <br>
+7. **Generate more energy.** Work out. Sink deeper into your purpose. Don't forget your curiosities. Avoid negative people. Avoid gossip. Find people who are optimistic and that energize you. Bring them energy as well. If you don't have more energy than you can spend, you will get consumed by the pace of Harvard. Treat this as seriously as a professional athlete may treat working out. The more energy you have, the more you'll be able to get out of this place. <br>
+8. **Explore each nook and cranny of campus** (and of Cambridge). This is one of the most beautiful set of buildings with amazing cohesive architecture and a story of who's come before you. Explore. Imagine who's been there before. Marvel at that this will continue long past your life. Make your mark by living each day to the fullest.  <br>
+9. **Leave it better than you found it.** The school, the houses and the programs are not mere services for your enjoyment. They are the collective works of thousands of scholars who've come before you for hundreds of years. The value you'll see in this place will be directly correlated to how much you believe you've made it better. Quietly make it a better place. Take pride in knowing your contribution.  <br>
+10. **Don't forget who you are.** You weren't invited here to become something else. You were invited here to become the most exciting version of you. Don't "become Harvard." Use the Harvard experience to "make Harvard you." The pull of the archetypical role models at Harvard will be strong. Use those to push yourself, but never forget who you are. Don't become the role model, become your highest self. <br>
 
 ---
 
